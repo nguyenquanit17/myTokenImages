@@ -1,0 +1,41 @@
+{
+  "name": "Bloodswap Default List",
+  "timestamp": "2020-09-17T00:12:46.685Z",
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Token Open",
+      "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+      "symbol": "TKO",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/nguyenquanit17/myTokenImages/main/tokenO.svg"
+    },
+    {
+      "name": "Test Token A",
+      "address": "0x835AB432D25587c146306c7FEC30da0A5582bD03",
+      "symbol": "TTA",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/nguyenquanit17/myTokenImages/main/tokenA.svg"
+    },
+    {
+      "name": "Test Token B",
+      "address": "0xDEF04B20e1F68e931707a1082fce088dD04d4eFC",
+      "symbol": "TTB",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/nguyenquanit17/myTokenImages/main/tokenB.svg"
+    }
+  ]
+}
