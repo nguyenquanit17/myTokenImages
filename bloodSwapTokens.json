@@ -1,13 +1,13 @@
 {
   "name": "Bloodswap List",
-  "timestamp": "2020-09-17T00:12:46.685Z",
+  "timestamp": "2020-09-16T00:12:46.685Z",
   "version": {
     "major": 1,
     "minor": 5,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI": "https://raw.githubusercontent.com/nguyenquanit17/myTokenImages/main/blood.jpg",
   "keywords": [
     "uniswap",
     "default"
